@@ -1,0 +1,154 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 d/u/kbandla/AXI4-Lite/Axi4-lite-main/Axi4-lite-verilator
+T_opt
+!s110 1750368348
+V7?KjS>[M_aYBBWHz1bzj<3
+04 2 4 work tb fast 0
+=1-525400b63b2a-6854805c-17a5-621c
+R1
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+OL;O;2024.2;79
+R2
+vaxi4_lite_master
+Z4 2axi4_lite_master.sv|axi4_lite_slave.sv|axi4_lite_top.sv|axi4_lite_tb.sv
+Z5 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z6 !s110 1750809155
+!i10b 1
+!s100 h=O9_dfaYzf@h57@^n16R1
+IaQnL2=J<iaOd@J><`caTm0
+S1
+R2
+w1750369323
+8axi4_lite_master.sv
+Faxi4_lite_master.sv
+!i122 36
+L0 21 108
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2024.2;79
+r1
+!s85 0
+31
+Z9 !s108 1750809154.000000
+!s107 axi4_lite_tb.sv|axi4_lite_top.sv|axi4_lite_slave.sv|axi4_lite_master.sv|
+Z10 !s90 axi4_lite_master.sv|axi4_lite_slave.sv|axi4_lite_top.sv|axi4_lite_tb.sv|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vaxi4_lite_slave
+R4
+R5
+R6
+!i10b 1
+!s100 DeGL1NkL^W5I72H^MVE3H0
+IU<_H7Xac<Ed6WG]Jg:Ige0
+S1
+R2
+w1750359541
+8axi4_lite_slave.sv
+Faxi4_lite_slave.sv
+!i122 36
+L0 21 116
+R7
+R8
+r1
+!s85 0
+31
+R9
+Z12 !s107 axi4_lite_tb.sv|axi4_lite_top.sv|axi4_lite_slave.sv|axi4_lite_master.sv|
+R10
+!i113 0
+R11
+R3
+vaxi4_lite_top
+R4
+R5
+R6
+!i10b 1
+!s100 Q8V^FYa9_b<Pf9n`Z5M3@0
+Ii<<_@mDA8<fbH_VT]^AZA1
+S1
+R2
+w1750359569
+8axi4_lite_top.sv
+Faxi4_lite_top.sv
+!i122 36
+L0 1 70
+R7
+R8
+r1
+!s85 0
+31
+R9
+R12
+R10
+!i113 0
+R11
+R3
+vtb
+R4
+R5
+R6
+!i10b 1
+!s100 ATSG3^eXIF^3M=X96d=jG3
+ImDg0A2[`l_T8KW=?4V9g63
+S1
+R2
+w1750368343
+8axi4_lite_tb.sv
+Faxi4_lite_tb.sv
+!i122 36
+L0 7 106
+R7
+R8
+r1
+!s85 0
+31
+R9
+R12
+R10
+!i113 0
+R11
+R3

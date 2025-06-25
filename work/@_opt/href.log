@@ -1,0 +1,7 @@
+BEGIN 1:axi4_lite_top:fast:work
+    M_BREADY :  1:tb:fast:work
+    S_RVALID :  1:tb:fast:work
+    S_RDATA :  1:tb:fast:work
+    S_BVALID :  1:tb:fast:work
+    M_RREADY :  1:tb:fast:work
+END 
