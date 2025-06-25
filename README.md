@@ -1,1 +1,1 @@
-# AXI--Lite
+# AXI4-Lite
